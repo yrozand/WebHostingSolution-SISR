@@ -29,5 +29,5 @@ Nous devons préparer un ensemble de tests, y compris des tests de sécurité, p
 ## Authors
 
 - [@yrozand](https://github.com/yrozand)
-- []
+- [@alexou273](https://github.com/alexou273)
 

@@ -30,4 +30,4 @@ Nous devons préparer un ensemble de tests, y compris des tests de sécurité, p
 
 - [@yrozand](https://github.com/yrozand)
 - [@alexou273](https://github.com/alexou273)
-- [@Pierre]
+- Pierre
